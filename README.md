@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/jgeusebroek/ubuntu1604-molecule.svg)](https://microbadger.com/images/jgeusebroek/ubuntu1604-molecule "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/jgeusebroek/ubuntu1604-molecule:ansible.svg)](https://microbadger.com/images/jgeusebroek/ubuntu1604-molecule:ansible "Get your own image badge on microbadger.com")
 # Ubuntu 1604 (Xenial) Molecule
 
 Ubuntu 1604 (Xenial) Molecule Docker container for automated Ansible tests using [Molecule](https://github.com/metacloud/molecule).
